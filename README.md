@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src = "https://github.com/StephanieUgwuanya/StephanieUgwuanya/blob/main/Yellow%20Online%20Business%20Facebook%20Cover%20(1).png" alt= "welcome to my github">
+
 <!--
 **StephanieUgwuanya/StephanieUgwuanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
