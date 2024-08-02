@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub 👋
 
 <img src = "https://github.com/StephanieUgwuanya/StephanieUgwuanya/blob/main/Yellow%20Online%20Business%20Facebook%20Cover%20(1).png" alt= "welcome to my github">
 
