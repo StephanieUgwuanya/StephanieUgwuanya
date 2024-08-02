@@ -1,5 +1,9 @@
 ## Welcome to my GitHub 👋
 
+# Connect with me:
+## LinkedIn: [https://www.linkedin.com/in/stephanie-ugwuanya-bb1817122/](url)
+## Tableau: [https://public.tableau.com/app/profile/stephanie.ugwuanya/vizzes](url)
+
 <img src = "https://github.com/StephanieUgwuanya/StephanieUgwuanya/blob/main/GitHub%20Cover.png" alt= "welcome to my github2">
 
 <!--
